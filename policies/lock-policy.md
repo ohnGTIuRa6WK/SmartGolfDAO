@@ -45,3 +45,5 @@ Locking may be used in the following scenarios:
 ---
 
 _Last Updated: 2025-09-16_
+
+<!-- Auto-update: 2025-10-10T18:41:54.918967 -->
